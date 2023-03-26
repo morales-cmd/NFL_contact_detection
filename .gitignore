@@ -163,3 +163,5 @@ data/train/*.mp4
 data/test/*.mp4
 *.zip
 data/
+output_files/CNN-baseline/frames/
+notebooks/models/
